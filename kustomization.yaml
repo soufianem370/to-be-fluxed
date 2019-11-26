@@ -1,2 +1,7 @@
 resources:
 - service.yml
+
+# labels added to all Resources
+commonLabels:
+  app: example
+  env: test
