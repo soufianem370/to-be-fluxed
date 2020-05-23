@@ -1,3 +1,4 @@
+## example deploy flux di on k8S
 ```
 smakhloufi@smakhloufi-Lenovo-Y520-15IKBN:~$ kubectl get all -n flux
 NAME                                      READY   STATUS    RESTARTS   AGE
